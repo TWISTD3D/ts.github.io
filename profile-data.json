@@ -1,0 +1,24 @@
+{
+  "username": "twistedtbh",
+  "bio": "T W I S T E D",
+  "tab": "twstd",
+  "status": "offline",
+  "badges": [
+    "DEV",
+    "OWNER",
+    "67"
+  ],
+  "volLabel": "vol",
+  "brightLabel": "dim",
+  "views": 9407,
+  "pfpText": "pfp",
+  "avatarSrc": "http://localhost:3000/mainhtml.html",
+  "socialLinks": {
+    "github": "#",
+    "discord": "#",
+    "twitter": "#",
+    "tiktok": "#"
+  },
+  "songs": [],
+  "bgVideoUrl": ""
+}
